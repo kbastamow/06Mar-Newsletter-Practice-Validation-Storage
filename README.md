@@ -2,7 +2,7 @@
 
 ## Description
 
-A little repeat practise to get comfortable with JS form validation, JSON and Local Storage, and Bootstrap elements.
+A little repeat practice to get comfortable with JS form validation, JSON and Local Storage, and Bootstrap elements.
 
 Points of interest - notes to self:
 * Saving and retrieving object entry that is **an array** from a checklist where user can tick various options.
@@ -14,9 +14,9 @@ Points of interest - notes to self:
 
 ## Tools
 
-*VS Code
-*Bootstrap 5.2
+* VS Code
+* Bootstrap 5.2
 
 ## Author
 
-*kbastamow
+* kbastamow
